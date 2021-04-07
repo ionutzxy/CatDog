@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.CatVsDogBattle"
+	versionCode ="10"
+        version   = "1.0.0">
+
+    <name>Cat vs Dog Battle</name>
+
+    <description>
+        Click, hold, aim and release with the proper power to hit the opponent. Take into account the wind direction and power! Also use the one time bonuses (more power, double turn)!
+    </description>
+
+    <author href="" email="ionutbelgun@gmail.com">
+        Ionut Belgun
+    </author>
+
+    
+
+</widget>
